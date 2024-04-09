@@ -1,2 +1,2 @@
-# DIANA_1
-DIANA - DynamIcal systems ANAlysis project
+# DIANA - **D**ynam**I**cal systems **ANA**lysis project
+
